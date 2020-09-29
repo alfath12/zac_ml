@@ -1,0 +1,1034 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/developer?id=Zacky+Walkthrough",
+        
+        "appid": "pub-ABCDEFGHIJKLMN",
+        "admobappid": "ca-app-pub-ABCDEFGHIJKLMN~3347511713",
+        "interid": "ca-app-pub-ABCDEFGHIJKLMN/1033173712",
+        "nativeid": "ca-app-pub-ABCDEFGHIJKLMN/2247696110",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 6,
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"insurance",
+        "hpk_admob2":"health",
+        "hpk_admob3":"automotive",
+        "hpk_admob4":"electronics",
+        "hpk_admob5":"home design"
+        
+      
+       
+
+        }
+    ],
+
+"More":
+  [ 
+    {
+    "id":1,
+    "judul":"New Hedgehog Wallpapers",
+    "image":"https://lh3.googleusercontent.com/MrLpVnxfeukcgKIdl8R2x9vkB-K2pCrputHajmJBqUevP1XZkuJlV_hksFHOMi6y-PI=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=zacky.hdwallpapers.hdsonichedgehogwallpapers"
+  },
+  {
+    "id":2,
+    "judul":"Brawl Wallpapers",
+    "image":"https://lh3.googleusercontent.com/3334SS6-Ailbn8iSIFHGCeolQ1WfvG1hdozt7xVceRGOiSOX_h9ENX-6KI32M8rFpmQE=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=zacky.hdwallpapers.brawlstarswallpapers"
+  },
+  {
+    "id":3,
+    "judul":"HD Wallpaper Saiyanz",
+    "image":"https://lh3.googleusercontent.com/bnfYtkJU_A-fSKvZHRXpq5frR9mYuZkM3M0TbY5Zl13Ln-PmO_zA9yW0V6WkZERDU5Y=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=zacky.hdwallpapers.hdwallpapersaiyanzideas4knew"
+  },
+  {
+    "id":4,
+    "judul":"Cute BT21 Wallpapers",
+    "image":"https://lh3.googleusercontent.com/ukp_rxcVmCHl-9hJjNkD1g-7-ALITigw6eUHrJ3OUPbeL0T1TIqVZt_SM84cpf4iS88I=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.zw.cutebt21wallpapershdoffline"
+  },
+  {
+    "id":5,
+    "judul":"Cute Kitty Wallpapers",
+    "image":"https://lh3.googleusercontent.com/YR7kzPBnVMT_mX9Im0WGBaCLmT_V114tO6Ji-FPZMaydJl_F_k3LDBP-sYZ_o9HcMA=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=zacky.hdwallpapers.cutekittywallpapershd"
+  },
+  {
+    "id":6,
+    "judul":"Cute BT21 Wallpapers Lockscreen",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575721"
+  },
+  {
+    "id":7,
+    "judul":"HD Brawlhalla Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
+    "link":"https://appgallery.huawei.com/#/app/C102703635"
+  },
+  {
+    "id":8,
+    "judul":"Cute Gacha Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575745"
+  },
+  {
+    "id":9,
+    "judul":"Cute Ice Cream Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575731"
+  },
+  {
+    "id":10,
+    "judul":"Cute Kawaii Bunny Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575733"
+  },
+  {
+    "id":11,
+    "judul":"Dragon Ball Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
+    "link":"https://appgallery.huawei.com/#/app/C102976603"
+  },
+  {
+    "id":12,
+    "judul":"Cute Panda Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575711"
+  },
+  {
+    "id":13,
+    "judul":"Cute Quby Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/85773a79f198448999871ea78136cc2d.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575743"
+  },
+  {
+    "id":14,
+    "judul":"Love Photo Frames",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2ad7da927a8043669ee7e162f92eecb0.png",
+    "link":"https://appgallery.huawei.com/#/app/C102405537"
+  },
+  {
+    "id":15,
+    "judul":"Cute BT21 Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/feb1624da3fe40e09c4e403e1df10e22.png",
+    "link":"https://appgallery.huawei.com/#/app/C102617171"
+  },
+  {
+    "id":16,
+    "judul":"Design Logo Ideas",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/3520f23554364ddfa0740b84173029c7.png",
+    "link":"https://appgallery.huawei.com/#/app/C101603207"
+  },
+  {
+    "id":17,
+    "judul":"Cute Kawaii Molang Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/3fa8c4b0830c4457adc4ca2b0d82ce0b.png",
+    "link":"https://appgallery.huawei.com/#/app/C102405553"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Legends BangBang 1",
+      "gambar": "https://iili.io/2fXkhb.jpg"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "Legends BangBang 2",
+      "gambar": "https://iili.io/2fXNpe.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "Legends BangBang 3",
+      "gambar": "https://iili.io/2fXeTu.jpg"
+    
+    },
+	{
+      "id": 4,
+      "nama_cat": "Legends BangBang 4",
+      "gambar": "https://iili.io/2fXwv9.jpg"
+     
+    },
+	{
+      "id": 5,
+      "nama_cat": "Legends BangBang 5",
+      "gambar": "https://iili.io/2fXvQj.jpg"
+     
+    },
+	{
+      "id": 6,
+      "nama_cat": "Legends BangBang 6",
+      "gambar": "https://iili.io/2fXUEQ.jpg"
+     
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXkhb.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXNpe.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXeTu.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXwv9.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXvQj.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXUEQ.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXSCx.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXg4V.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fX43B.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fX6YP.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXPv1.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXiyF.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXLTg.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXQja.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXZZJ.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXDCv.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXbGR.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fXy3N.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh9aI.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Legends BangBang 1",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhHvt.jpg"
+    },
+	{
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhJyX.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh2un.jpg"
+    },
+      {
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh3js.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhFZG.jpg"
+    },
+      {
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhfnf.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhqG4.jpg"
+    },
+	{
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhB6l.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhoaS.jpg"
+    },
+      {
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhnF2.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhx87.jpg"
+    },
+      {
+      "id":31,
+      "id_wall":"031",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhI99.jpg"
+    },
+    {
+      "id":32,
+      "id_wall":"032",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhTue.jpg"
+    },
+	{
+      "id":33,
+      "id_wall":"033",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhuwu.jpg"
+    },
+    {
+      "id":34,
+      "id_wall":"034",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhAZb.jpg"
+    },
+      {
+      "id":35,
+      "id_wall":"035",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh5nj.jpg"
+    },
+    {
+      "id":36,
+      "id_wall":"036",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh7Mx.jpg"
+    },
+      {
+      "id":37,
+      "id_wall":"037",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhcFV.jpg"
+    },
+    {
+      "id":38,
+      "id_wall":"038",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhlcB.jpg"
+    },
+	{
+      "id":39,
+      "id_wall":"039",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhY6Q.jpg"
+    },
+    {
+      "id":40,
+      "id_wall":"040",
+      "nama_cat": "Legends BangBang 2",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh08P.jpg"
+    },
+	{
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhE91.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhGAF.jpg"
+    },
+      {
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhMwg.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhVta.jpg"
+    },
+      {
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhXoJ.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhjPR.jpg"
+    },
+	{
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhhMv.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhNFp.jpg"
+    },
+      {
+      "id":49,
+      "id_wall":"049",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhOcN.jpg"
+    },
+    {
+      "id":50,
+      "id_wall":"050",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhv9t.jpg"
+    },
+      {
+      "id":51,
+      "id_wall":"051",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh8AX.jpg"
+    },
+    {
+      "id":52,
+      "id_wall":"052",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fheSI.jpg"
+    },
+	{
+      "id":53,
+      "id_wall":"053",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhSNn.jpg"
+    },
+    {
+      "id":54,
+      "id_wall":"054",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhUts.jpg"
+    },
+      {
+      "id":55,
+      "id_wall":"055",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh4Vf.jpg"
+    },
+    {
+      "id":56,
+      "id_wall":"056",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhroG.jpg"
+    },
+      {
+      "id":57,
+      "id_wall":"057",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fh6P4.jpg"
+    },
+    {
+      "id":58,
+      "id_wall":"058",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhiKl.jpg"
+    },
+	{
+      "id":59,
+      "id_wall":"059",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhsl2.jpg"
+    },
+    {
+      "id":60,
+      "id_wall":"060",
+      "nama_cat": "Legends BangBang 3",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhLSS.jpg"
+    },
+	{
+      "id":61,
+      "id_wall":"061",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhZH7.jpg"
+    },
+    {
+      "id":62,
+      "id_wall":"062",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhtR9.jpg"
+    },
+      {
+      "id":63,
+      "id_wall":"063",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhDNe.jpg"
+    },
+    {
+      "id":64,
+      "id_wall":"064",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhpob.jpg"
+    },
+      {
+      "id":65,
+      "id_wall":"065",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhbDu.jpg"
+    },
+    {
+      "id":66,
+      "id_wall":"066",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fhyVj.jpg"
+    },
+	{
+      "id":67,
+      "id_wall":"067",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fj9ix.jpg"
+    },
+    {
+      "id":68,
+      "id_wall":"068",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjJKQ.jpg"
+    },
+      {
+      "id":69,
+      "id_wall":"069",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjdlV.jpg"
+    },
+    {
+      "id":70,
+      "id_wall":"070",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fj2UB.jpg"
+    },
+      {
+      "id":71,
+      "id_wall":"071",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjFHP.jpg"
+    },
+    {
+      "id":72,
+      "id_wall":"072",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjKR1.jpg"
+    },
+	{
+      "id":73,
+      "id_wall":"073",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjfOF.jpg"
+    },
+    {
+      "id":74,
+      "id_wall":"074",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjqDg.jpg"
+    },
+      {
+      "id":75,
+      "id_wall":"075",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjCxa.jpg"
+    },
+    {
+      "id":76,
+      "id_wall":"076",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjnWJ.jpg"
+    },
+      {
+      "id":77,
+      "id_wall":"077",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjzfR.jpg"
+    },
+    {
+      "id":78,
+      "id_wall":"078",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjoiv.jpg"
+    },
+	{
+      "id":79,
+      "id_wall":"079",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjIlp.jpg"
+    },
+    {
+      "id":80,
+      "id_wall":"080",
+      "nama_cat": "Legends BangBang 4",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjTUN.jpg"
+    },
+	{
+      "id":81,
+      "id_wall":"081",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjAJI.jpg"
+    },
+    {
+      "id":82,
+      "id_wall":"082",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjRRt.jpg"
+    },
+      {
+      "id":83,
+      "id_wall":"083",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fj5OX.jpg"
+    },
+    {
+      "id":84,
+      "id_wall":"084",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fj7bn.jpg"
+    },
+      {
+      "id":85,
+      "id_wall":"085",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjcWG.jpg"
+    },
+    {
+      "id":86,
+      "id_wall":"086",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjlsf.jpg"
+    },
+	{
+      "id":87,
+      "id_wall":"087",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjE0l.jpg"
+    },
+    {
+      "id":88,
+      "id_wall":"088",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fj1f4.jpg"
+    },
+      {
+      "id":89,
+      "id_wall":"089",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjGg2.jpg"
+    },
+    {
+      "id":90,
+      "id_wall":"090",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjVJS.jpg"
+    },
+      {
+      "id":91,
+      "id_wall":"091",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjW57.jpg"
+    },
+    {
+      "id":92,
+      "id_wall":"092",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjhbe.jpg"
+    },
+	{
+      "id":93,
+      "id_wall":"093",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjwzu.jpg"
+    },
+    {
+      "id":94,
+      "id_wall":"094",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjNWb.jpg"
+    },
+      {
+      "id":95,
+      "id_wall":"095",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjOsj.jpg"
+    },
+    {
+      "id":96,
+      "id_wall":"096",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjv0Q.jpg"
+    },
+      {
+      "id":97,
+      "id_wall":"097",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjg5P.jpg"
+    },
+    {
+      "id":98,
+      "id_wall":"098",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjkqx.jpg"
+    },
+	{
+      "id":99,
+      "id_wall":"099",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjUdB.jpg"
+    },
+    {
+      "id":100,
+      "id_wall":"100",
+      "nama_cat": "Legends BangBang 5",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjre1.jpg"
+    },
+	{
+      "id":101,
+      "id_wall":"101",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fj4mF.jpg"
+    },
+    {
+      "id":102,
+      "id_wall":"102",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjPzg.jpg"
+    },
+      {
+      "id":103,
+      "id_wall":"103",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjiXa.jpg"
+    },
+    {
+      "id":104,
+      "id_wall":"104",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjsLJ.jpg"
+    },
+      {
+      "id":105,
+      "id_wall":"105",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjQqv.jpg"
+    },
+    {
+      "id":106,
+      "id_wall":"106",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjZ1R.jpg"
+    },
+	{
+      "id":107,
+      "id_wall":"107",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjtgp.jpg"
+    },
+    {
+      "id":108,
+      "id_wall":"108",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjbdN.jpg"
+    },
+      {
+      "id":109,
+      "id_wall":"109",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjm7I.jpg"
+    },
+    {
+      "id":110,
+      "id_wall":"110",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjpet.jpg"
+    },
+      {
+      "id":111,
+      "id_wall":"111",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fjymX.jpg"
+    },
+    {
+      "id":112,
+      "id_wall":"112",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwHIn.jpg"
+    },
+	{
+      "id":113,
+      "id_wall":"113",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwJXs.jpg"
+    },
+    {
+      "id":114,
+      "id_wall":"114",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwdLG.jpg"
+    },
+      {
+      "id":115,
+      "id_wall":"115",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fw3Bf.jpg"
+    },
+    {
+      "id":116,
+      "id_wall":"116",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwF14.jpg"
+    },
+      {
+      "id":117,
+      "id_wall":"117",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwKrl.jpg"
+    },
+    {
+      "id":118,
+      "id_wall":"118",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwq22.jpg"
+    },
+	{
+      "id":119,
+      "id_wall":"119",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwB7S.jpg"
+    },
+    {
+      "id":120,
+      "id_wall":"120",
+      "nama_cat": "Legends BangBang 6",
+      "judul":"Preview",
+      "image":"https://iili.io/2fwCk7.jpg"
+    }
+
+  ]
+}
